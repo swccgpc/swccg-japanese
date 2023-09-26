@@ -1,0 +1,2 @@
+# swccg-japanese
+Japanese SWCCG
